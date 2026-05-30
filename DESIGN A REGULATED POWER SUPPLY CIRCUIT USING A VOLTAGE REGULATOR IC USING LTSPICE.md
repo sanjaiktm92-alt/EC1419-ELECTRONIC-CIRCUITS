@@ -6,9 +6,9 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
 
 ## Graph
+<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/1ca43659-98d7-45e2-82dc-67eb70edd2bd" />
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
