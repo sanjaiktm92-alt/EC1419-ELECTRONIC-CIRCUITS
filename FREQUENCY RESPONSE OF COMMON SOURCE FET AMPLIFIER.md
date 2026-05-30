@@ -4,11 +4,14 @@
 <img width="865" height="553" alt="image" src="https://github.com/user-attachments/assets/b73a0362-39e9-47e4-9650-dfcee3c5f689" />
 <img width="842" height="511" alt="image" src="https://github.com/user-attachments/assets/7b291257-af6c-47ce-b939-3631ea52bbf4" />
 <img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
-<img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
 
 
 # Tabulation with readings
 
+<img width="1484" height="1600" alt="WhatsApp Image 2026-05-30 at 2 16 46 PM" src="https://github.com/user-attachments/assets/b09e6eeb-5279-4032-bfd0-fb8ec8c3022e" />
+
 ## Semilog plotted Graph
 
-<img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+<img width="1280" height="967" alt="WhatsApp Image 2026-05-30 at 2 16 46 PM (1)" src="https://github.com/user-attachments/assets/616888fd-5077-4c13-ace2-264e1475a683" />
+
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-30 at 2 29 27 PM" src="https://github.com/user-attachments/assets/13b86784-e5e0-4f9e-9360-1189d788bc68" />
